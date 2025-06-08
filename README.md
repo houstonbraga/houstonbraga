@@ -49,8 +49,6 @@ Se quiser se conectar, colaborar ou tiver alguma dúvida, fique à vontade para 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 
 
