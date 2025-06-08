@@ -22,11 +22,6 @@ Olá, me chamo Houston Braga sou desenvolvedor Full stack especializado em front
 
 Cada projeto foi uma oportunidade de aprender, adaptar e entregar valor real para os clientes, sempre com foco em usabilidade, performance e segurança.
 
-🛠️ TECH STACK
-
--Tenho conhecimento em tecnologias como ReactJs, NextJs, Typescript e NodeJs
--Tenho habilidades em ferramentas como Drizzle, Prisma, Docker, PostgreSQL e MongoDB
-
 🔮 Meu futuro?
 
 Meu principal objetivo é conseguir uma oportunidade nesse mundo de várias possibilidades para ajudar minha equipe e principalmente a empresa a crescer e evoluir dentro do mercado, entregando meu melhor para assim tornar as aplicações altamente escaláveis e otimizadas.
